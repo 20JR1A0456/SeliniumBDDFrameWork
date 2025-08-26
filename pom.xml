@@ -55,6 +55,14 @@
     <version>7.9.0</version>
     <scope>test</scope>
 </dependency>
+    <!-- Lombok -->
+<dependency>
+  <groupId>org.projectlombok</groupId>
+  <artifactId>lombok</artifactId>
+  <version>1.18.30</version> <!-- Use latest stable -->
+  <scope>provided</scope>
+</dependency>
+
 
 <dependency>
     <groupId>io.github.bonigarcia</groupId>
