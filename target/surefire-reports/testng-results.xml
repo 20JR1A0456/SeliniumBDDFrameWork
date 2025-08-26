@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="0" passed="0" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-08-26T10:32:37 IST" name="Functional" finished-at="2025-08-26T10:32:37 IST" duration-ms="12">
+    <groups>
+    </groups>
+    <test started-at="2025-08-26T10:32:37 IST" name="FunctionalTestCases" finished-at="2025-08-26T10:32:37 IST" duration-ms="12">
+    </test> <!-- FunctionalTestCases -->
+  </suite> <!-- Functional -->
+</testng-results>
